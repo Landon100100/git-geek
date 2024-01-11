@@ -62,7 +62,7 @@
 }
 
 .upload_box .upload_button.disable {
-    background: #EEE;
+    background: #DDD;
     color: #999;
     cursor: inherit;
 }
